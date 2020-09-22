@@ -1,0 +1,11 @@
+﻿  Circle.cpp
+  Main.cpp
+  Sieve.cpp
+  Square.cpp
+     Creating library D:\VS2017\Project_SmartIoT\Release\Project_SmartIoT.lib and object D:\VS2017\Project_SmartIoT\Release\Project_SmartIoT.exp
+  Generating code
+  8 of 36 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project_SmartIoT.vcxproj -> D:\VS2017\Project_SmartIoT\Release\Project_SmartIoT.exe
